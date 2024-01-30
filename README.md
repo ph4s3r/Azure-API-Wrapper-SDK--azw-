@@ -10,7 +10,7 @@ Just find a resource you would like to get
 REST API reference: https://learn.microsoft.com/en-us/rest/api/azure/  
 Graph API reference: https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0
 
-## Features & default ettings
+## Features & default settings
 
 - authentication with msal, http token caching, persistent token cache (one file per type rest/graph)
 - pagination (functions give all results back at once)
