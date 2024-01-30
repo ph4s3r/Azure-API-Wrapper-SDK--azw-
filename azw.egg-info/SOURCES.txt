@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+azw/__init__.py
+azw/azapi.py
+azw/test.py
+azw.egg-info/PKG-INFO
+azw.egg-info/SOURCES.txt
+azw.egg-info/dependency_links.txt
+azw.egg-info/top_level.txt
